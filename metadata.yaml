@@ -1,0 +1,28 @@
+_repo: The-Life-of-Mazzini_41207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Bolton
+    alias: King, B. (Bolton)
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '41034'
+    url: http://www.gutenberg.org/2009/agents/41034
+description: ''
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41207'
+  lccn: '37005587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mazzini, Giuseppe, 1805-1872'
+- !lcc 'DG'
+title: The Life of Mazzini
+url: http://www.gutenberg.org/ebooks/41207
